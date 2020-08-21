@@ -6,3 +6,11 @@
     --secondary-color: #be2edd;
 }
 
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:'Do Hyeon', sans-serif;
+    margin: 0;
+}
