@@ -44,6 +44,7 @@ nav ul li:first-of-type {
 }
 
 nav ul li a {
-    
+    color: #fff;
+    text-decoration: none;
 }
 
