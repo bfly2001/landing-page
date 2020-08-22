@@ -79,5 +79,9 @@ input[type='submit'] {
     padding: 8px 12px;
 }
 
+button:focus {
+    outline: none;
+}
+
 
 
