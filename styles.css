@@ -136,6 +136,19 @@ button:focus {
     border-bottom: 1px solid #333;
 }
 
+.modal-content {
+    padding: 20px;
+}
+
+.modal-form div {
+    margin: 15px 0;
+}
+
+.modal-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
 
 
 
